@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .chatholder {
+    border: 1px solid goldenrod;
+    flex: 0 150px;
+    height: 430px;
+    width: 678px;
+    background: rgba(199, 197, 197, 0.918);
+    color: black;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    top:  56%;
+    left: 27%;
+    overflow: scroll;
+  } 
